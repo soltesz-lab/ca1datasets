@@ -1,4 +1,4 @@
-14
+13
 axoaxoniccell axoaxoniccell 1470 1 0
 bistratifiedcell bistratifiedcell 2210 1 0
 cckcell cckcell 3600 1 0
@@ -12,4 +12,4 @@ ca3cell ppspont 204700 2 1
 eccell ppspont 250000 3 1
 ca3ripcell ppspont 20470 2 1
 oncell ppspont 20470 2 1
-offcell ppspont 20470 2 1
+
