@@ -1,4 +1,4 @@
-130
+120
 axoaxoniccell axoaxoniccell 0.000000 0.000000 0.000000
 axoaxoniccell bistratifiedcell 0.000000 0.000000 0.000000
 axoaxoniccell cckcell 0.000000 0.000000 0.000000
@@ -29,16 +29,6 @@ ca3cell pvbasketcell 0.000220 6047.000000 2.000000
 ca3cell pyramidalcell_s 0.000200 5985.000000 2.000000
 ca3cell pyramidalcell_d 0.000200 5985.000000 2.000000
 ca3cell scacell 0.000300 1940.000000 2.000000
-ca3ripcell axoaxoniccell 0.000120 4170.000000 2.000000
-ca3ripcell bistratifiedcell 0.000150 5782.000000 2.000000
-ca3ripcell cckcell 0.000650 2000.000000 2.000000
-ca3ripcell ivycell 0.000300 1923.000000 2.000000
-ca3ripcell ngfcell 0.000000 0.000000 0.000000
-ca3ripcell olmcell 0.000000 0.000000 0.000000
-ca3ripcell pvbasketcell 0.000220 6047.000000 2.000000
-ca3ripcell pyramidalcell_s 0.000200 5985.000000 2.000000
-ca3ripcell pyramidalcell_d 0.000200 5985.000000 2.000000
-ca3ripcell scacell 0.000300 1940.000000 2.000000
 cckcell axoaxoniccell 0.000700 12.000000 8.000000
 cckcell bistratifiedcell 0.000700 12.000000 8.000000
 cckcell cckcell 0.000450 35.000000 8.000000
