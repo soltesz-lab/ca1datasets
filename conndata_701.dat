@@ -1,4 +1,4 @@
-116
+117
 lec_placecell axoaxoniccell 0.000120 485.000000 2.000000
 lec_placecell bistratifiedcell 0.000150 432.000000 2.000000
 lec_placecell cckcell 0.000650 559.000000 2.000000
@@ -7,6 +7,7 @@ lec_placecell ngfcell 0.003500 523.000000 2.000000
 lec_placecell olmcell 0.000000 0.000000 0.000000
 lec_placecell pvbasketcell 0.000000 0.000000 0.000000
 lec_placecell pyramidalcell 0.000200 1299.000000 2.000000
+lec_placecell scacell 0.000450 573.000000 2.000000
 gridcell axoaxoniccell 0.000120 485.000000 2.000000
 gridcell bistratifiedcell 0.000150 432.000000 2.000000
 gridcell cckcell 0.000650 559.000000 2.000000
@@ -15,7 +16,7 @@ gridcell ngfcell 0.003500 523.000000 2.000000
 gridcell olmcell 0.000000 0.000000 0.000000
 gridcell pvbasketcell 0.000000 0.000000 0.000000
 gridcell pyramidalcell 0.000200 1299.000000 2.000000
-eccell scacell 0.000450 573.000000 2.000000
+gridcell scacell 0.000450 573.000000 2.000000
 axoaxoniccell axoaxoniccell 0.000000 0.000000 0.000000
 axoaxoniccell bistratifiedcell 0.000000 0.000000 0.000000
 axoaxoniccell cckcell 0.000000 0.000000 0.000000
