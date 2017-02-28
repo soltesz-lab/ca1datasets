@@ -7,7 +7,7 @@ gridcell ngfcell 0.003500 523.000000 2.000000
 gridcell olmcell 0.000000 0.000000 0.000000
 gridcell pvbasketcell 0.000000 0.000000 0.000000
 gridcell pyramidalcell 0.000200 1299.000000 2.000000
-eccell scacell 0.000450 573.000000 2.000000
+gridcell scacell 0.000450 573.000000 2.000000
 axoaxoniccell axoaxoniccell 0.000000 0.000000 0.000000
 axoaxoniccell bistratifiedcell 0.000000 0.000000 0.000000
 axoaxoniccell cckcell 0.000000 0.000000 0.000000
