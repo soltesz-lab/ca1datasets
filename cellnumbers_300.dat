@@ -10,4 +10,4 @@ pvbasketcell pvbasketcell 5530 1 0
 scacell scacell 400 2 0
 ca3cell ppspont 204700 2 1
 eccell ppspont 212000 3 1
-gridcell ppvec 38000 2 1
+gridcell ppvec 38000 3 1
