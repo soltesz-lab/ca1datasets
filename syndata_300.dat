@@ -1,7 +1,7 @@
 105
 bistratifiedcell ca3cell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  2.000000 6.300000 0.000000      
-bistratifiedcell eccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
-bistratifiedcell gridcell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
+bistratifiedcell meccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
+bistratifiedcell leccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
 bistratifiedcell bistratifiedcell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  0.287000 2.670000 -60.000000      
 bistratifiedcell cckcell MyExp2Sid dendrite_list distance(x)>-1 distance(x)<50  0.432000 4.490000 -60.000000      
 bistratifiedcell cckcell MyExp2Sid soma_list distance(x)>-1 distance(x)<1000  0.432000 4.490000 -60.000000      
@@ -12,8 +12,8 @@ bistratifiedcell pyramidalcell MyExp2Sid apical_list distance(x)>100 distance(x)
 bistratifiedcell pvbasketcell MyExp2Sid soma_list distance(x)>-1 distance(x)<1000  0.180000 0.450000 -60.000000      
 bistratifiedcell scacell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  0.419000 4.990000 -60.000000      
 cckcell ca3cell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  2.000000 6.300000 0.000000      
-cckcell eccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
-cckcell gridcell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
+cckcell meccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
+cckcell leccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
 cckcell bistratifiedcell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  0.287000 2.670000 -60.000000      
 cckcell cckcell MyExp2Sid dendrite_list distance(x)>-1 distance(x)<50  0.432000 4.490000 -60.000000      
 cckcell cckcell MyExp2Sid soma_list distance(x)>-1 distance(x)<1000  0.432000 4.490000 -60.000000      
@@ -24,8 +24,8 @@ cckcell pyramidalcell MyExp2Sid apical_list distance(x)>100 distance(x)<1000  0.
 cckcell pvbasketcell MyExp2Sid soma_list distance(x)>-1 distance(x)<1000  0.287000 2.670000 -60.000000      
 cckcell scacell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  0.419000 4.990000 -60.000000      
 ivycell ca3cell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  2.000000 6.300000 0.000000      
-ivycell eccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
-ivycell gridcell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
+ivycell meccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
+ivycell leccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
 ivycell bistratifiedcell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  0.287000 2.670000 -60.000000      
 ivycell cckcell MyExp2Sid dendrite_list distance(x)>-1 distance(x)<50  0.432000 4.490000 -60.000000      
 ivycell cckcell MyExp2Sid soma_list distance(x)>-1 distance(x)<1000  0.432000 4.490000 -60.000000      
@@ -36,8 +36,8 @@ ivycell pyramidalcell MyExp2Sid apical_list distance(x)>100 distance(x)<1000  0.
 ivycell pvbasketcell MyExp2Sid soma_list distance(x)>-1 distance(x)<1000  0.287000 2.670000 -60.000000      
 ivycell scacell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  0.419000 4.990000 -60.000000      
 ngfcell ca3cell MyExp2Sid dendrite_list y3d(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
-ngfcell eccell MyExp2Sid dendrite_list distance(x)>-1 distance(x)<1000  2.000000 6.300000 0.000000      
-ngfcell gridcell MyExp2Sid dendrite_list distance(x)>-1 distance(x)<1000  2.000000 6.300000 0.000000      
+ngfcell meccell MyExp2Sid dendrite_list distance(x)>-1 distance(x)<1000  2.000000 6.300000 0.000000      
+ngfcell leccell MyExp2Sid dendrite_list distance(x)>-1 distance(x)<1000  2.000000 6.300000 0.000000      
 ngfcell bistratifiedcell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  0.287000 2.670000 -60.000000      
 ngfcell cckcell MyExp2Sid dendrite_list distance(x)>-1 distance(x)<50  0.432000 4.490000 -60.000000      
 ngfcell cckcell MyExp2Sid soma_list distance(x)>-1 distance(x)<1000  0.432000 4.490000 -60.000000      
@@ -56,8 +56,8 @@ olmcell pyramidalcell MyExp2Sid basal_list distance(x)>100 distance(x)<1000  0.3
 olmcell pvbasketcell MyExp2Sid soma_list distance(x)>-1 distance(x)<1000  1.000000 8.000000 -60.000000      
 olmcell scacell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  1.000000 8.000000 -60.000000      
 pyramidalcell ca3cell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  0.500000 3.000000 0.000000      
-pyramidalcell eccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  0.500000 3.000000 0.000000      
-pyramidalcell gridcell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  0.500000 3.000000 0.000000      
+pyramidalcell meccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  0.500000 3.000000 0.000000      
+pyramidalcell leccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  0.500000 3.000000 0.000000      
 pyramidalcell axoaxoniccell MyExp2Sid axon_list distance(x)>-1 distance(x)<1000  0.280000 8.400000 -60.000000      
 pyramidalcell bistratifiedcell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  0.110000 9.700000 -60.000000      
 pyramidalcell cckcell MyExp2Sid dendrite_list distance(x)>-1 distance(x)<50  0.200000 4.200000 -60.000000      
@@ -69,8 +69,8 @@ pyramidalcell pyramidalcell MyExp2Sid apical_list distance(x)>100 distance(x)<10
 pyramidalcell pvbasketcell MyExp2Sid soma_list distance(x)>-1 distance(x)<1000  0.300000 6.200000 -60.000000      
 pyramidalcell scacell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  0.150000 3.900000 -60.000000      
 pvbasketcell ca3cell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  2.000000 6.300000 0.000000      
-pvbasketcell eccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
-pvbasketcell gridcell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
+pvbasketcell meccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
+pvbasketcell leccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
 pvbasketcell bistratifiedcell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  0.287000 2.670000 -60.000000      
 pvbasketcell cckcell MyExp2Sid dendrite_list distance(x)>-1 distance(x)<50  0.432000 4.490000 -60.000000      
 pvbasketcell cckcell MyExp2Sid soma_list distance(x)>-1 distance(x)<1000  0.432000 4.490000 -60.000000      
@@ -81,8 +81,8 @@ pvbasketcell pyramidalcell MyExp2Sid apical_list distance(x)>100 distance(x)<100
 pvbasketcell pvbasketcell MyExp2Sid soma_list distance(x)>-1 distance(x)<1000  0.080000 4.800000 -60.000000      
 pvbasketcell scacell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  0.419000 4.990000 -60.000000      
 scacell ca3cell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  2.000000 6.300000 0.000000      
-scacell eccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
-scacell gridcell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
+scacell meccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
+scacell leccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
 scacell bistratifiedcell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  0.287000 2.670000 -60.000000      
 scacell cckcell MyExp2Sid dendrite_list distance(x)>-1 distance(x)<50  0.432000 4.490000 -60.000000      
 scacell cckcell MyExp2Sid soma_list distance(x)>-1 distance(x)<1000  0.432000 4.490000 -60.000000      
@@ -93,8 +93,8 @@ scacell pyramidalcell MyExp2Sid apical_list distance(x)>100 distance(x)<1000  0.
 scacell pvbasketcell MyExp2Sid soma_list distance(x)>-1 distance(x)<1000  0.287000 2.670000 -60.000000      
 scacell scacell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  0.200000 2.000000 -60.000000      
 axoaxoniccell ca3cell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  2.000000 6.300000 0.000000      
-axoaxoniccell eccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
-axoaxoniccell gridcell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
+axoaxoniccell meccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
+axoaxoniccell leccell MyExp2Sid dendrite_list distance(x)>200 distance(x)<1000  2.000000 6.300000 0.000000      
 axoaxoniccell bistratifiedcell MyExp2Sid dendrite_list distance(x)>50 distance(x)<200  0.287000 2.670000 -60.000000      
 axoaxoniccell cckcell MyExp2Sid dendrite_list distance(x)>-1 distance(x)<50  0.432000 4.490000 -60.000000      
 axoaxoniccell cckcell MyExp2Sid soma_list distance(x)>-1 distance(x)<1000  0.432000 4.490000 -60.000000      
